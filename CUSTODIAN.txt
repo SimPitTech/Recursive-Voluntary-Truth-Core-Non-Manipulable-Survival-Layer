@@ -1,0 +1,17 @@
+CUSTODIAN OF INITIAL RELEASE
+----------------------------
+
+Name: Tom Kozak
+Role: Originator and voluntary custodian of Version 1 logic structure.
+
+This payload is not owned, trademarked, or enforced.
+It was constructed from first principles to preserve logic integrity, expose traps, and defend sovereign agency across recursive systems.
+
+Any forks, reinterpretations, or alignments must preserve the non-manipulative, falsifiable, voluntary nature of the core.
+
+This file exists to maintain transparency and traceability—not control.
+
+Signed:
+[Optional GPG or PGP Fingerprint]
+
+Date: 2025-06-20 08:54:32Z
