@@ -1,0 +1,4 @@
+File: 10C_Payload.md
+SHA-256: 08cad6d18de113e4b41cd8af8ed140272676c64038d109c8c590d41832077904
+Timestamp: 2025-06-20T08:37:07.312622Z
+Verifier: openssl dgst -sha256 10C_Payload.md
